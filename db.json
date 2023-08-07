@@ -1,0 +1,260 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "title": "Moderne mestské štúdio v centre mesta",
+      "description": "Útulné štúdio v srdci mesta s výhľadom na hrad. V blízkosti obchody, reštaurácie a parky.",
+      "images": ["url_obrazka_1.jpg"],
+      "location": "Bratislava, Slovensko",
+      "price": 50,
+      "rooms": 1,
+      "guests": 2,
+      "rating": 4.5,
+      "amenities": ["wifi", "kuchyňa", "kúpeľňa", "tv"],
+      "host": {
+        "id": 1,
+        "name": "Ján Novák"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Pohodlný byt vedľa parku",
+      "description": "Svetlý a vzdušný byt s terasou, kde si môžete vychutnať raňajky alebo len oddýchnuť s knihou.",
+      "images": ["url_obrazka_2.jpg"],
+      "location": "Košice, Slovensko",
+      "price": 70,
+      "rooms": 2,
+      "guests": 4,
+      "rating": 4.8,
+      "amenities": ["wifi", "kuchyňa", "kúpeľňa", "tv", "terasa"],
+      "host": {
+        "id": 2,
+        "name": "Eva Kováčová"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Víkendový domček v horách",
+      "description": "Užite si relaxačný víkend v srdci Vysokých Tatier. Ideálne pre milovníkov prírody a turistiky.",
+      "images": [
+        "url_obrazka_3_1.jpg",
+        "url_obrazka_3_2.jpg",
+        "url_obrazka_3_3.jpg"
+      ],
+      "location": "Vysoké Tatry, Slovensko",
+      "price": 90,
+      "rooms": 3,
+      "guests": 6,
+      "rating": 4.9,
+      "amenities": ["wifi", "kuchyňa", "kúpeľňa", "tv", "kamin"],
+      "host": {
+        "id": 3,
+        "name": "Lukáš Dvořák"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Luxusný penthouse s výhľadom na Dunaj",
+      "description": "Ponúkame vám luxusné ubytovanie s nezabudnuteľným výhľadom priamo v srdci mesta.",
+      "images": ["url_obrazka_4_1.jpg", "url_obrazka_4_2.jpg"],
+      "location": "Bratislava, Slovensko",
+      "price": 150,
+      "rooms": 4,
+      "guests": 8,
+      "rating": 5.0,
+      "amenities": ["wifi", "jacuzzi", "sauna", "klimatizácia", "tv", "garáž"],
+      "host": {
+        "id": 1,
+        "name": "Ján Novák"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Horská chata s nádherným výhľadom",
+      "description": "Utekajte z mesta do tejto útulnej chaty v srdci Tatier. Ideálne miesto pre milovníkov turistiky a prírody.",
+      "images": ["url_obrazka_5.jpg"],
+      "location": "Vysoké Tatry, Slovensko",
+      "price": 100,
+      "rooms": 3,
+      "guests": 6,
+      "rating": 4.9,
+      "amenities": ["wifi", "kuchyňa", "kúpeľňa", "kamin", "terasa"],
+      "host": {
+        "id": 5,
+        "name": "Peter Horváth"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Moderný loft v historickom centre",
+      "description": "Pozrite sa na mesto z inej perspektívy z tohto moderne zariadeného loftu. Blízko k hlavným atrakciám a nočnému životu.",
+      "images": ["url_obrazka_6.jpg"],
+      "location": "Banská Bystrica, Slovensko",
+      "price": 85,
+      "rooms": 2,
+      "guests": 4,
+      "rating": 4.7,
+      "amenities": ["wifi", "kuchyňa", "kúpeľňa", "tv", "klimatizácia"],
+      "host": {
+        "id": 6,
+        "name": "Linda Varga"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Vílou domček pri jazere",
+      "description": "Nádherný domček obklopený prírodou pri brehu jazera. Skvelé miesto pre rybolov a rodinné pikniky.",
+      "images": ["url_obrazka_7.jpg"],
+      "location": "Liptovská Mara, Slovensko",
+      "price": 120,
+      "rooms": 4,
+      "guests": 8,
+      "rating": 5.0,
+      "amenities": ["wifi", "kuchyňa", "kúpeľňa", "tv", "gril"],
+      "host": {
+        "id": 7,
+        "name": "Mária Sláviková"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Historický apartmán v gotickom štýle",
+      "description": "Zažite atmosféru starého Európy v tomto apartmáne v srdci historického centra Prešova. Autentické detaily a moderné vybavenie pre pohodlný pobyt.",
+      "images": ["url_obrazka_7.jpg"],
+      "location": "Prešov, Slovensko",
+      "price": 90,
+      "rooms": 2,
+      "guests": 4,
+      "rating": 4.8,
+      "amenities": [
+        "wifi",
+        "kuchyňa",
+        "kúpeľňa",
+        "tv",
+        "klimatizácia",
+        "terasa"
+      ],
+      "host": {
+        "id": 7,
+        "name": "Juraj Štefánik"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Víkendový dom s panoramatickým výhľadom na rieku",
+      "description": "Oddýchnite si a znova objavte kľud v tomto domčeku s nádherným výhľadom na rieku Dunaj. Ideálny pre rodiny a skupiny priateľov.",
+      "images": ["url_obrazka_8.jpg"],
+      "location": "Komárno, Slovensko",
+      "price": 110,
+      "rooms": 3,
+      "guests": 6,
+      "rating": 5.0,
+      "amenities": ["wifi", "kuchyňa", "kúpeľňa", "tv", "gril", "bazén"],
+      "host": {
+        "id": 8,
+        "name": "Katarína Dušičková"
+      }
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "propertyId": 1,
+      "user": "Martin Horváth",
+      "rating": 5,
+      "text": "Skvelý pobyt! Ubytovanie bolo čisté a pohodlné."
+    },
+    {
+      "id": 2,
+      "propertyId": 2,
+      "user": "Lucia Slobodníková",
+      "rating": 4.5,
+      "text": "Úžasná lokalita. Hostiteľ bol veľmi nápomocný."
+    },
+    {
+      "id": 3,
+      "propertyId": 3,
+      "user": "Filip Polák",
+      "rating": 5,
+      "text": "Nádherný domček v srdci Tatier. Ideálny pre relaxačný víkend."
+    },
+    {
+      "id": 4,
+      "propertyId": 4,
+      "user": "Veronika Valachová",
+      "rating": 4.8,
+      "text": "Luxusné ubytovanie s nezabudnuteľným výhľadom. Vrelo odporúčam!"
+    },
+    {
+      "id": 5,
+      "propertyId": 5,
+      "user": "Adrián Michalík",
+      "rating": 4.7,
+      "text": "Pohodlná chata s všetkým, čo potrebujete pre dokonalý pobyt."
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Ján Novák",
+      "email": "jan@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Eva Kováčová",
+      "email": "eva@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Filip Polák",
+      "email": "filip@example.com"
+    },
+    {
+      "id": 4,
+      "name": "Veronika Valachová",
+      "email": "veronika@example.com"
+    },
+    {
+      "id": 5,
+      "name": "Adrián Michalík",
+      "email": "adrian@example.com"
+    }
+  ],
+  "bookings": [
+    {
+      "id": 1,
+      "propertyId": 1,
+      "userId": 1,
+      "startDate": "2023-08-01",
+      "endDate": "2023-08-07"
+    },
+    {
+      "id": 2,
+      "propertyId": 2,
+      "userId": 2,
+      "startDate": "2023-09-15",
+      "endDate": "2023-09-20"
+    },
+    {
+      "id": 3,
+      "propertyId": 3,
+      "userId": 3,
+      "startDate": "2023-07-10",
+      "endDate": "2023-07-17"
+    },
+    {
+      "id": 4,
+      "propertyId": 4,
+      "userId": 4,
+      "startDate": "2023-06-05",
+      "endDate": "2023-06-10"
+    },
+    {
+      "id": 5,
+      "propertyId": 5,
+      "userId": 5,
+      "startDate": "2023-08-15",
+      "endDate": "2023-08-22"
+    }
+  ]
+}
